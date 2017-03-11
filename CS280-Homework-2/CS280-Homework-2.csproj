@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CS280-Homework-1.2">
-      <HintPath>..\..\..\CSharp-Projects2\CS280-Homework-1.2\CS280-Homework-1.2\bin\Debug\CS280-Homework-1.2.dll</HintPath>
+      <HintPath>..\..\CS280-Homework-1.2\CS280-Homework-1.2\CS280-Homework-1.2\bin\Debug\CS280-Homework-1.2.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

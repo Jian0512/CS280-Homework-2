@@ -1,2 +1,9 @@
 C:\CSharp-Projects3\CS280-Homework-2\CS280-Homework-2\bin\Debug\CS280-Homework-2.exe.config
 C:\Users\user\Desktop\C#上課資料\CS280\CS280-Homework-2\CS280-Homework-2\bin\Debug\CS280-Homework-2.exe.config
+C:\Users\user\Desktop\C#上課資料\CS280\CS280-Homework-2\CS280-Homework-2\obj\Debug\CS280-Homework-2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C#上課資料\CS280\CS280-Homework-2\CS280-Homework-2\bin\Debug\CS280-Homework-2.exe
+C:\Users\user\Desktop\C#上課資料\CS280\CS280-Homework-2\CS280-Homework-2\bin\Debug\CS280-Homework-2.pdb
+C:\Users\user\Desktop\C#上課資料\CS280\CS280-Homework-2\CS280-Homework-2\bin\Debug\CS280-Homework-1.2.dll
+C:\Users\user\Desktop\C#上課資料\CS280\CS280-Homework-2\CS280-Homework-2\bin\Debug\CS280-Homework-1.2.pdb
+C:\Users\user\Desktop\C#上課資料\CS280\CS280-Homework-2\CS280-Homework-2\obj\Debug\CS280-Homework-2.exe
+C:\Users\user\Desktop\C#上課資料\CS280\CS280-Homework-2\CS280-Homework-2\obj\Debug\CS280-Homework-2.pdb
