@@ -1,0 +1,2 @@
+C:\CSharp-Projects3\CS280-Homework-2\CS280-Homework-2\bin\Debug\CS280-Homework-2.exe.config
+C:\Users\user\Desktop\C#上課資料\CS280\CS280-Homework-2\CS280-Homework-2\bin\Debug\CS280-Homework-2.exe.config
